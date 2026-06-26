@@ -86,4 +86,6 @@ Bu skill yalnızca **metin talimatı** içerir — çalıştırılabilir kod vey
 
 ## Lisans
 
-İstediğin lisansı ekleyebilirsin (ör. MIT). Lisans belirtmezsen varsayılan olarak tüm haklar sende kalır.
+MIT License — © 2026 [ismt46](https://github.com/ismt46)
+
+Bu proje MIT lisansı ile lisanslanmıştır. Kaynak göstererek serbestçe kullanabilir, kopyalayabilir, değiştirebilir ve dağıtabilirsin.
